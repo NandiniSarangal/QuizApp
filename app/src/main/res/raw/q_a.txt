@@ -1,0 +1,229 @@
+[
+{
+"ques":"Who is the Father of Artificial Intelligence?",
+"ans":"John McCarthy",
+"ops":"Alan Turing,John McCarthy,George Boole,Allen Newell"
+},
+{
+"ques":"India first computer is?",
+"ans":"Param",
+"ops":"Agni,Flow Solver,Param,Trisul"
+},
+{
+"ques":"Whose trademark is the operating system UNIX?",
+"ans":"Bell Laboratories",
+"ops":"Microsoft,Motorola,Bell Laboratories,Ashton Tate"
+},
+{
+"ques":"C language is ?",
+"ans":"High level language",
+"ops":"High level language,Machine language,Assembly language,None"
+},
+{
+"ques":"Web pages are written by?",
+"ans":"HTML",
+"ops":"FTP,HTTP,HTMLt,URL"
+},
+{
+"ques":"Which of following is not an OS?",
+"ans":"Java",
+"ops":"DOS,UNIX,Window NT,Java"
+},
+{
+"ques":"The 1st movie with terrific computer animation & graphics was?",
+"ans":"Star wars",
+"ops":"Star wars,Tron,Forbidden planet,Dark star"
+},
+{
+"ques":"Find the odd man out?",
+"ans":"C",
+"ops":"SYBASE,ORACLE,C,INFORMIX"
+},
+{
+"ques":"What is primary requisite of a good computer programmmer?",
+"ans":"Logical mind",
+"ops":"Mathematical mind,Artistic mind,Logical mind,Scientific knowledge"
+},
+{
+"ques":"Which of the following is not a type of computer hard drive?",
+"ans":"FDD",
+"ops":"IDE,FDD,SCSI,EIDE"
+},
+{
+"ques":"What type of connector is used to plug a telephone line into a modem?",
+"ans":"RJ-11",
+"ops":"COM1,RJ-11,RJ-45,RJ-10"
+},
+{
+"ques":"What is BIOS acronym for?",
+"ans":"Basic input output system",
+"ops":"Bootstrap initial operating system,basic input output startup,boot initial output startup,Basic input output system"
+},
+{
+"ques":"Dot-matrix is a type of?",
+"ans":"Printer",
+"ops":"Tape,Printer,Disk,Bus"
+},
+{
+"ques":"C++ was developed by?",
+"ans":"Bjarne Stroustrup",
+"ops":"James Gosling,Bjarne Stroustrup,Dan Bricklin,Dennis Ritchie"
+},
+"ques":"C was developed by?",
+"ans":"Dennis Ritchie",
+"ops":"James Gosling,Bjarne Stroustrup,Dan Bricklin,Dennis Ritchie"
+},
+{
+"ques":"Which is the smallest individual unit in a program ?",
+"ans":"tokens",
+"ops":"data,pointers,statements,tokens"
+},
+{
+"ques":"Which writer is a word processor?",
+"ans":"Staroffice",
+"ops":"wWordPro,Windows,Msoffice,Staroffice"
+},
+{
+"ques":"Which computer company invented the RAM chip?",
+"ans":"intel",
+"ops":"Motorola,Toshiba,Intel,IBM"
+},
+{
+"ques":"Which one of following is not a word processor?",
+"ans":"Notepad",
+"ops":"StarWriter,Ms Word,Notepad,Wordstar"
+},
+{
+"ques":"What do Main memory contain?",
+"ans":"both a & b",
+"ops":"data,instructions,both a & b,either a & b"
+},
+{
+"ques":"which kernel(operating system) is used in Android?",
+"ans":"linux",
+"ops":"windows,linux,ios,unix"
+},
+{
+"ques":"Compilers and interpreters are?",
+"ans":"Programs",
+"ops":"Mnemonics,Codes,Programs,High level language"
+},
+{
+"ques":"What allows a class to be derived from an existing class?",
+"ans":"Inheritance",
+"ops":"Object,Polymorphism,Encapsulation,Inheritance"
+},
+{
+"ques":"The process of acquiring base class properties is called?",
+"ans":"inheritance",
+"ops":"class,encapsulation,inheritance,polymorphism"
+},
+{
+"ques":"Which one of following is used to declare a generic pointer?",
+"ans":"void",
+"ops":"void,string,int,char"
+},
+{
+"ques":"what is the full form of DVM ?",
+"ans":"Dalvik Virtual Machine",
+"ops":"Dalvik Virtual Machine,Dalvik virtal memory,debuggable Virtual machine,none"
+},
+{
+"ques":"what part of android platform is open source ?",
+"ans":"all of these are correct answers",
+"ops":"low-level linux modules,native libraries,application framework,all of above"
+},
+{
+"ques":"When developing for the Android OS, Java byte code is compiled into what?",
+"ans":"Dalvik byte code",
+"ops":"Java Source code,Dalvik byte code,Dalvik application code,C source code"
+},
+{
+"ques":"What is contained within the android manifest xml file?",
+"ans":"The permissions the app requires",
+"ops":"The list of strings used in the app,The permissions the app requires,The Source code,All of  the above"
+},
+{
+"ques":"The dynaset type recordset is dynamic set of records that contain fields from?",
+"ans":"one or more table",
+"ops":"one table,two tables,database,one or more table"
+},
+{
+"ques":"Which command can be used to copy files in UNIX?",
+"ans":"cp",
+"ops":"ncopy,copy,cp,none"
+},
+{
+"ques":"Which character is used in an OR operator?",
+"ans":"pipe",
+"ops":"ampersand,bracket,colon,pipe"
+},
+{
+"ques":"DNS translates domain name into what?",
+"ans":"IP",
+"ops":"Binary,Hex,IP,URL"
+},
+{
+"ques":"Which of following is not a type of computer battery?",
+"ans":"BIOS",
+"ops":"BIOS,CMOX,Li-ion,NiMH"
+},
+{
+"ques":"To move backward through the Options?",
+"ans":"SHIFT+TAB",
+"ops":"SHIFT+TAB,CTRL+SHIFT+TAB,CTRL+TAB,None of these"
+},
+{
+"ques":"Who developed Yahoo?",
+"ans":"David Filo",
+"ops":"Dennis Ritchie,David Filo,Vint Cerf,Steve Case"
+},
+{
+"ques":"What does the .apk extension stand for?",
+"ans":"Android Package kit",
+"ops":"Application Package,Application Program Kit,Android Package kit,Android Proprietary Kit"
+},
+{
+"ques":"Which of the following are a component of an APK file?",
+"ans":"All of these",
+"ops":"Dalvik executable,Native Libraries,Resources,All of these"
+},
+{
+"ques":"Creating a User Interface in Android requires careful use of",
+"ans":"XML and Java",
+"ops":"XML and Java,Java and SQLite,Activity,XML"
+},
+{
+"ques":"Testing begins at which level?",
+"ans":"component",
+"ops":"system,component,module,none of above"
+},
+{
+"ques":"Black-box testing is also called?",
+"ans":"Behavioral testing",
+"ops":"Behavioral testing,Structural testing,System testing,Unit testing"
+},
+{
+"ques":"White-box testing is also called?",
+"ans":"Glass-box testing",
+"ops":"Plastic-box testing,Iron-box testing,Metal-box testing,Glass-box testing"
+},
+{
+"ques":"Integration testing makes heavy use of which testing techniques?",
+"ans":"Black-box",
+"ops":"Red-box,Green-box,White-box,Black-box"
+},
+{
+"ques":"Which network protocol is used to send email?",
+"ans":"SMTP",
+"ops":"FTP,SSH,POP3,SMTP"
+},
+{
+"ques":"TCP breaks data into ?",
+"ans":"Packets",
+"ops":"Binary,Bits,Files,Packets"
+}
+]
+
+
+
